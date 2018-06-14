@@ -1,0 +1,8 @@
+C:\Users\Marcin\Downloads\Code\AccessControlDemo\bin\Debug\AccessControlDemo.exe
+C:\Users\Marcin\Downloads\Code\AccessControlDemo\bin\Debug\AccessControlDemo.pdb
+C:\Users\Marcin\Downloads\Code\AccessControlDemo\obj\Debug\AccessControlDemo.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Downloads\Code\AccessControlDemo\obj\Debug\AccessControlDemo.MainForm.resources
+C:\Users\Marcin\Downloads\Code\AccessControlDemo\obj\Debug\AccessControlDemo.Properties.Resources.resources
+C:\Users\Marcin\Downloads\Code\AccessControlDemo\obj\Debug\AccessControlDemo.csproj.GenerateResource.Cache
+C:\Users\Marcin\Downloads\Code\AccessControlDemo\obj\Debug\AccessControlDemo.exe
+C:\Users\Marcin\Downloads\Code\AccessControlDemo\obj\Debug\AccessControlDemo.pdb
